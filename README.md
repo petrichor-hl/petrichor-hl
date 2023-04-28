@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tran Le Hoang lam</h1>
 <h3 align="center">A Mobile Developer</h3>
-<img align="right" alt="Flutter" width="400" src="https://storage.googleapis.com/cms-storage-bucket/d83012c34a8f88a64e2b.jpg" height="250">
+<img align="right" alt="Flutter" width="42%" src="bird.png">
 
 - 🐳 I’m currently learning **Flutter, SwiftUI, Jetpack Compose**
 
@@ -27,6 +27,9 @@
     <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
     </a> 
+    <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+        </a> 
     <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> 
     </a> 

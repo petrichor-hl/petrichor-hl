@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Tran Le Hoang lam</h1>
-<h3 align="center">A Mobile Developer</h3>
+<h3 align="center">Software Engineer</h3>
 <img align="right" alt="Flutter" width="42%" src="bird.png">
 
-- 🐳 I’m currently learning **Flutter, SwiftUI, Jetpack Compose**
+- 🐳 I’m currently learning **.NET and Flutter**
 
 - 🦉 How to reach me **tl.hoanglam174@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://linkedin.com/in/https://www.linkedin.com/in/hoanglam174/" target="blank">
+    <a href="https://www.linkedin.com/in/hoanglam174/" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hoanglam174/" height="30" width="40" />
     </a>
 </p>
